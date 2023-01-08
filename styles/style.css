@@ -17,6 +17,7 @@ header{
     padding-right: 230px;
     padding-left: 655px;
     margin-bottom: 6px;
+    
         
 }
 
@@ -63,7 +64,8 @@ text-align: right;
 }
 
 .img{
-    margin: 90px 0px;
+    position: relative;
+    left: -70px;
 }
 
 .failures{
@@ -106,10 +108,11 @@ text-align: right;
 .plans-cont{
     text-align: center;
     display: flex;
-    gap: 50px;
-    margin-top: 50px;
-    margin-left: 170px;
+    gap: 90px;
     align-items: center;
+    margin-top: 50px;
+    margin-left: 140px;
+    
     
 }
 
